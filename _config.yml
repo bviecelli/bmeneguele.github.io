@@ -14,8 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Bruno Meneguele
-tagline: Vivendo e Aprendendo
+title: bmeneguele's blog
 
 # Short description of your site
 description: Registro de cada conhecimento adquirido no meu dia de trabalho.
@@ -42,7 +41,7 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Bruno E. O. Meneguele
   email: "bmeneguele@gmail.com"
-  facebook: bmeneguele  # eg. daattali
+  facebook: # eg. daattali
   github: bmeneguele    # eg. daattali
   twitter: bmeneguele   # eg. daattali
   linkedin: in/bmeneguele  # eg. "pub/dean-attali/8/946/143"
@@ -59,7 +58,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "bmeneguele.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "bmeneguele's blog"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
