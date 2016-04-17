@@ -5,8 +5,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 14px;
-  /* color: #404040; */
-  /* gray */
+  /* dark gray */
   color: #272822;
   position: relative;
   background: #ffffff;
@@ -17,7 +16,6 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  /* color: #008AFF; */
   /* orange */
   color: #fd971f;
 }
@@ -26,14 +24,12 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 600;
 }
 a {
-  /* color: #008AFF; */
   /* orange */
   color: #fd971f;
 }
 a:hover,
 a:focus {
-  /* color: #0085a1; */
-  /* green */
+  /* dark green */
   color: #709d15;
 }
 blockquote {
@@ -103,8 +99,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  /* background: #F5F5F5; */
-  /* gray */
+  /* dark gray */
   background: #272822;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -119,7 +114,6 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  /* color: #404040; */
   /* orange */
   color: #fd971f;
 }
@@ -128,8 +122,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  /* color: #0085a1; */
-  /* green */
+  /* light green */
   color: #a6e22e; 
 }
 
@@ -252,8 +245,7 @@ img {
 
 footer {
   padding: 30px 0;
-  /* background: #F5F5F5; */
-  /* gray */
+  /* dark gray */
   background: #272822;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
@@ -261,14 +253,18 @@ footer {
 }
 
 footer a {
-  /* color: #404040; */
   /* orange */
   color: #fd971f;
 }
 
+footer a:hover,
+footer a:focus {
+  /* light green */
+  color: #a6e22e; 
+}
+
 footer a.social {
-  /* color: #404040; */
-  /* green */
+  /* light green */
   color: #a6e22e;
 }
 
@@ -317,16 +313,14 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  /* color: #404040; */
-  /* gray */
+  /* dark gray */
   color: #272822;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  /* color: #0085a1; */
-  /* green */
+  /* dark green */
   color: #709d15;
 }
 
